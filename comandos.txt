@@ -1,0 +1,7 @@
+*** debug ***
+gcc <nomedoprograma.c> -0 <nomedoprograma.out>
+gcc jogoAdivinha.c -0 jogoAdivinha.out
+
+*** executar o arquivo .out ***
+./<nomedoarquivo.out>
+./jogoAdivinha.out
